@@ -1,6 +1,8 @@
 <?php
 
-namespace app\controllers;
+namespace app\modules\main\controllers;
+
+use frontend\models\Image;
 
 class MainController extends \yii\web\Controller
 {
